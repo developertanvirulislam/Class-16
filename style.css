@@ -1,0 +1,66 @@
+.header{
+    background-color: #101446;
+}
+.main_menu{
+    text-align: center;
+}
+.main_menu ul{
+    margin-bottom: 0;
+}
+.main_menu ul li{
+    display: inline-block;
+}
+.main_menu ul li a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    padding: 30px 18px;
+    font-size: 20px;
+}
+.logo_div img{
+    width: 120px;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.banner{
+    background: url(./intro-bg.jpg) no-repeat;
+    padding: 250px 0px;
+    background-size: cover;
+}
+.banner button a{
+    padding: 10px 15px ;
+    background-color: #337ab7;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+.meet_our_team{
+    background-color: #bac1f3;
+    border: none;
+}
+.meet{
+    background-color: #bac1f3;
+    border: none;
+}
+.meet img{
+    width: 200px;
+    position: relative;
+    left: 80px;
+    padding-top: 50px;
+}
+.meet button{
+    border: none;
+    background-color: transparent;
+}
+.meet button a{
+    color: white;
+    padding: 10px 15px;
+    background-color: #337ab7;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.about_section{
+    background-color: #c2d4ea;
+}
